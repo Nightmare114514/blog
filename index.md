@@ -53,3 +53,5 @@ mtd -r write /tmp/factory.bin firmware
 更新完之后重启路由器，Enjoy！
 
 提示：更改无线设置后最好重启路由器，否则可能会不稳定。
+
+### [点此处传送到评论区](https://github.com/Nightmare114514/blog/issues)
