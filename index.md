@@ -54,4 +54,4 @@ mtd -r write /tmp/factory.bin firmware
 
 提示：更改无线设置后最好重启路由器，否则可能会不稳定。
 
-### [点此处传送到评论区](https://github.com/Nightmare114514/blog/issues)
+### [点此处传送到评论区](https://github.com/Nightmare114514/blog/issues)(点击绿色的New issue创建评论，有的人可能会上不去这个网页)
