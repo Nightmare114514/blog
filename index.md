@@ -1,5 +1,7 @@
 ### 欢迎来到Nightmare114514的博客
 
+### [点此处传送至主站](nightmare114514.github.io)
+
 炮姐镇楼(＿`·ω·′)＿
 
 <img src="炮姐.png" alt="炮姐.png" title="炮姐天下第一！">
